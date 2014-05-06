@@ -1,0 +1,6 @@
+Needed infomation :
+$server='emysql501.discountasp.net';
+$user='testadmin';
+$pass='testadminpass';
+$dbname='MYSQL5_893005_test'
+

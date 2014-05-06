@@ -1,0 +1,6 @@
+CREATE TABLE profile (
+ProfileId INT  NOT NULL  AUTO_INCREMENT,
+Email VARCHAR(30),
+Phone VARCHAR(25),
+Address VARCHAR(50),
+PRIMARY KEY (ProfileId), FOREIGN(UId) REFERENCES users (UId) )
